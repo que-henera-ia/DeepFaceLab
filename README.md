@@ -237,7 +237,7 @@ Unfortunately, there is no "make everything ok" button in DeepFaceLab. You shoul
 </td></tr>
 
 <tr><td align="right">
-<a href="https://mrdeepfakes.com/forums/thread-guide-deepfacelab-2-0-guide">DeepFaceLab guide</a>
+<a href="https://mrdeepfakes.com/forums/threads/guide-deepfacelab-2-0-guide.3886/">DeepFaceLab guide</a>
 </td><td align="center">Main guide</td></tr>
 
 <tr><td align="right">
